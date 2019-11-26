@@ -235,7 +235,7 @@ E = "path/to/test.node"
 F = "path/to/test.face"
 ```
 
-> The test files can be downloaded [here](http://www.google.com/).
+> The test files can be downloaded [here](https://github.com/Elliothuo/juSFEM/releases/tag/v0.1.0).
 
 # To-do List
 
